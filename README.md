@@ -9,4 +9,6 @@
 
 ### Preview
 
+- [TRY ME !!](https://adweather7.netlify.app/)
+
 ![](screen.gif)
