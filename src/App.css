@@ -2,6 +2,9 @@ h1 {
   color: #eeeeee;
   text-align: center;
 }
+h1 .ad {
+  color: rgb(132, 27, 27);
+}
 main {
   border: 2px solid white;
   display: flex;
